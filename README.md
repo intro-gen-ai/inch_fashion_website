@@ -1,7 +1,7 @@
 # INCH FASHION WEBSITE
 
 # PROJECT PI/PROJECT TEAM
-Name; Prince Owusu Nkrumah
+Name: Prince Owusu Nkrumah
 Vandy Email: prince.owusu-nkrumah@vanderbilt.edu
 vuNetID: owusunp
 Role: Solo project
