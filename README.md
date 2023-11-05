@@ -1,3 +1,11 @@
+# INCH FASHION WEBSITE
+
+# PROJECT PI/PROJECT TEAM
+Name; Prince Owusu Nkrumah
+Vandy Email: prince.owusu-nkrumah@vanderbilt.edu
+vuNetID: owusunp
+Role: Solo project
+
 # Description of Problem/Opportunity:
 
 In the dynamically changing landscape of the digital age, the presence of a brand online is just as important, if not more so, than its presence in the physical world. The modern consumer not only seeks convenience but also an immersive experience when interacting with a brand online. For fashion-forward brands like "inch", which cater to an audience that values individuality, self-expression, and a sense of belonging, it's imperative to have a digital presence that echoes these sentiments. The opportunity lies in capturing the essence of "inch" – the meticulous attention to detail, the spirit of individuality, and the transformative nature of fashion – and translating it into a digital experience.
