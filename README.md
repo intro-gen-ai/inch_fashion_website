@@ -1,5 +1,3 @@
-# https://intro-gen-ai.github.io/inch_fashion_website/
-
 # INCH FASHION WEBSITE
 
 # PROJECT PI/PROJECT TEAM
@@ -7,6 +5,7 @@ Name: Prince Owusu Nkrumah
 Vandy Email: prince.owusu-nkrumah@vanderbilt.edu
 vuNetID: owusunp
 Role: Solo project
+Link to project: https://intro-gen-ai.github.io/inch_fashion_website/
 
 # Description of Problem/Opportunity:
 
