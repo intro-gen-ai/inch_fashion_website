@@ -67,5 +67,28 @@ Activities: Officially launch the website to the public.
 *Date:* Ongoing after November 30th  
 Activities: Gather user feedback, identify areas for improvement, and make necessary changes to enhance user experience while adding more features iteratively.
 
+# Goals of project
+Certainly, defining clear goals is crucial for the success of any project, including the development of a website for the "inch" fashion brand. Here are two goals that could be relevant to your project:
 
+### Goal 1: Enhance Brand Engagement and Customer Experience
+- **Objective:** To create an immersive and interactive online platform that not only showcases "inch" products but also conveys the brand's story and ethos.
+- **Key Actions:** 
+  - Develop an intuitive, visually appealing interface with high-quality images and engaging content.
+  - Implement features like a storytelling interface, community platform, and virtual try-on to provide an enriched user experience.
+- **Expected Outcomes:** 
+  - Increased time spent on the website by visitors.
+  - Positive customer feedback and engagement metrics.
+  - Higher brand recall and customer loyalty.
+
+### Goal 2: Increase Online Sales and Market Reach
+- **Objective:** To leverage the website as a primary sales channel, expanding "inch"'s market reach and boosting online sales.
+- **Key Actions:** 
+  - Optimize the website for e-commerce with a seamless shopping experience, secure payment gateways, and user-friendly navigation.
+  - Implement marketing strategies like SEO, social media integration, and email marketing to drive traffic and conversions.
+- **Expected Outcomes:** 
+  - Measurable increase in online sales and conversion rates.
+  - Expansion of customer base, including reaching new demographics or geographical regions.
+  - Improved ranking on search engines leading to greater visibility.
+
+These goals align with the overall vision of enhancing "inch"'s digital presence while ensuring that the website not only serves as a showcase for products but also as a tool for driving business growth and building a strong connection with the target audience.
 
