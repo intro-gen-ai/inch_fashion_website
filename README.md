@@ -1,5 +1,15 @@
 # INCH FASHION WEBSITE
 
+# Description of Problem/Opportunity:
+
+In the dynamically changing landscape of the digital age, the presence of a brand online is just as important, if not more so, than its presence in the physical world. The modern consumer not only seeks convenience but also an immersive experience when interacting with a brand online. For fashion-forward brands like "inch", which cater to an audience that values individuality, self-expression, and a sense of belonging, it's imperative to have a digital presence that echoes these sentiments. The opportunity lies in capturing the essence of "inch" – the meticulous attention to detail, the spirit of individuality, and the transformative nature of fashion – and translating it into a digital experience.
+
+While “inch” embodies the artful finesse of streetwear fashion, there's a gap in its digital outreach. The brand's story, deeply rooted in individuality and precision, demands an online platform that mirrors these values, presenting not just products but experiences. In the absence of a fitting online platform, the brand risks losing out on a vast audience who prefer shopping and interacting with brands online, especially in a post-pandemic world.
+
+
+- Link to video explanation : https://drive.google.com/file/d/1P0UPXWjDEMMkIJ5ldT6nihW1PadnIL-5/view
+
+
 # PROJECT PI/PROJECT TEAM
 - Name: Prince Owusu Nkrumah
 - Vandy Email: prince.owusu-nkrumah@vanderbilt.edu
@@ -7,11 +17,6 @@
 - Role: Solo project
 - Link to project: https://intro-gen-ai.github.io/inch_fashion_website/
 
-# Description of Problem/Opportunity:
-
-In the dynamically changing landscape of the digital age, the presence of a brand online is just as important, if not more so, than its presence in the physical world. The modern consumer not only seeks convenience but also an immersive experience when interacting with a brand online. For fashion-forward brands like "inch", which cater to an audience that values individuality, self-expression, and a sense of belonging, it's imperative to have a digital presence that echoes these sentiments. The opportunity lies in capturing the essence of "inch" – the meticulous attention to detail, the spirit of individuality, and the transformative nature of fashion – and translating it into a digital experience.
-
-While “inch” embodies the artful finesse of streetwear fashion, there's a gap in its digital outreach. The brand's story, deeply rooted in individuality and precision, demands an online platform that mirrors these values, presenting not just products but experiences. In the absence of a fitting online platform, the brand risks losing out on a vast audience who prefer shopping and interacting with brands online, especially in a post-pandemic world.
 
 # Proposed Solution/Approach:
 
