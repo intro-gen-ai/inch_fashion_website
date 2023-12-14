@@ -68,7 +68,6 @@ Activities: Officially launch the website to the public.
 Activities: Gather user feedback, identify areas for improvement, and make necessary changes to enhance user experience while adding more features iteratively.
 
 # Goals of project
-Certainly, defining clear goals is crucial for the success of any project, including the development of a website for the "inch" fashion brand. Here are two goals that could be relevant to your project:
 
 ### Goal 1: Enhance Brand Engagement and Customer Experience
 - **Objective:** To create an immersive and interactive online platform that not only showcases "inch" products but also conveys the brand's story and ethos.
@@ -90,5 +89,5 @@ Certainly, defining clear goals is crucial for the success of any project, inclu
   - Expansion of customer base, including reaching new demographics or geographical regions.
   - Improved ranking on search engines leading to greater visibility.
 
-These goals align with the overall vision of enhancing "inch"'s digital presence while ensuring that the website not only serves as a showcase for products but also as a tool for driving business growth and building a strong connection with the target audience.
+
 
