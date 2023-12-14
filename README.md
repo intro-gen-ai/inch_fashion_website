@@ -7,7 +7,7 @@ In the dynamically changing landscape of the digital age, the presence of a bran
 While “inch” embodies the artful finesse of streetwear fashion, there's a gap in its digital outreach. The brand's story, deeply rooted in individuality and precision, demands an online platform that mirrors these values, presenting not just products but experiences. In the absence of a fitting online platform, the brand risks losing out on a vast audience who prefer shopping and interacting with brands online, especially in a post-pandemic world.
 
 
-- Link to video explanation : https://drive.google.com/file/d/1P0UPXWjDEMMkIJ5ldT6nihW1PadnIL-5/view
+- Link to video explanation : [https://drive.google.com/file/d/1P0UPXWjDEMMkIJ5ldT6nihW1PadnIL-5/view](https://drive.google.com/file/d/1DYmDDp-pLm5U9arwI3L59ijMdUx-bCtG/view)
 
 
 # PROJECT PI/PROJECT TEAM
